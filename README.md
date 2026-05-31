@@ -239,3 +239,15 @@ Built by **Iris (生姜iris)** from 150+ AI startup consultations, AFFiNE growth
 go global SOP, AI product overseas, startup international expansion, 出海增长, GTM strategy, how to launch AI product globally, startup go-to-market international, SaaS overseas expansion playbook, 企业出海, 冷启动, Product Hunt strategy, Reddit marketing for startups, open source launch, GitHub stars growth, user interview framework, conversion optimization, PLG strategy, AI startup growth, overseas expansion checklist, 出海打法, 海外增长, グローバル展開, 해외 진출
 
 </details>
+
+## 🔗 Related Gingiris Skills
+
+| Skill | Focus | Install |
+|-------|-------|---------|
+| [gingiris-launch](https://github.com/Gingiris-1031/gingiris-launch) | Product Hunt & Global Launch | `clawhub install gingiris-launch` |
+| [gingiris-opensource](https://github.com/Gingiris-1031/gingiris-opensource) | Open Source Launch Marketing | `clawhub install gingiris-opensource` |
+| [gingiris-b2b-growth](https://github.com/Gingiris-1031/gingiris-b2b-growth) | B2B SaaS Full-Lifecycle Growth | `clawhub install gingiris-b2b-growth` |
+| [gingiris-seo-geo](https://github.com/Gingiris-1031/gingiris-seo-geo) | SEO & GEO Dual-Engine Growth | `clawhub install gingiris-seo-geo` |
+| [gingiris-kol-outreach](https://github.com/Gingiris-1031/gingiris-kol-outreach) | KOL & Influencer Marketing SOP | `clawhub install gingiris-kol-outreach` |
+
+> 📦 **Full collection:** [gingiris-skills](https://github.com/Gingiris-1031/gingiris-skills) — All playbooks in one bundle.
