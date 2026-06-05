@@ -1,18 +1,50 @@
 ---
 name: gingiris-go-global
 version: 1.0.0
+tags:
+  - go-global
+  - international-expansion
+  - GTM
+  - go-to-market
+  - cold-start
+  - localization
+  - SaaS-growth
+  - product-launch
+  - market-research
+  - pricing-strategy
+  - overseas-expansion
+  - startup-growth
+  - user-acquisition
+  - compliance
+  - market-validation
 description: |
-  🇺🇸 AI Product / SaaS Go-Global Complete SOP — From competitor research to launch to monetization. A full-cycle playbook covering Phase 0-5 (market validation, positioning, first 100 users, user interviews, beta-to-growth) plus open-source launch, Product Hunt, Reddit, SEO/GEO, conversion, and org principles.
+  Your product works in one market. You want to expand internationally but don't know where to start — localization? New channels? Pricing adaptation? This gives you the step-by-step from market research to monetization in unfamiliar territory.
 
-  🇨🇳 AI 产品 / SaaS 企业出海完整 SOP — 从竞品调研到 Launch 到商业化的全流程操作手册。覆盖 Phase 0-5（市场验证、定位、前100用户、用户访谈、Beta转增长）+ 开源发布、Product Hunt、Reddit、SEO/GEO、转化与组织原则。
+  What's inside:
+  • TAM/SAM/SOM analysis framework (find the right beachhead market)
+  • Localization beyond translation (cultural adaptation, UX patterns)
+  • Channel selection by market (US/EU/JP/KR/SEA — what works where)
+  • Cold start in new markets (first 100 users without local network)
+  • Compliance & payment gateways (Stripe, local processors, tax)
 
-  🇯🇵 AI製品/SaaS海外展開フルサイクルSOP — 競合調査からローンチ、マネタイズまで。Phase 0-5（市場検証、ポジショニング、最初の100ユーザー、ユーザーインタビュー、ベータから成長）＋オープンソース、Product Hunt、Reddit、SEO/GEO、コンバージョン、組織原則。
-
-  🇰🇷 AI 제품/SaaS 글로벌 진출 완전 SOP — 경쟁사 조사부터 런칭, 수익화까지 전 주기 플레이북. Phase 0-5(시장 검증, 포지셔닝, 첫 100명 사용자, 사용자 인터뷰, 베타→성장) + 오픈소스 런칭, Product Hunt, Reddit, SEO/GEO, 전환, 조직 원칙.
+  Built from: Conversion benchmarks validated across 150+ startups — Visit→Signup 30-40%, Signup→Paid 1-3%, Month 2 retention 50-80%.
 
   Triggers: "go global" | "出海" | "overseas expansion" | "GTM" | "cold start" | "launch strategy" | "international expansion" | "海外增长" | "出海SOP" | "product launch overseas" | "海外进出" | "グローバル展開" | "글로벌 진출" | "go-to-market" | "出海打法"
 ---
 
+
+## 📦 Install
+
+```bash
+npx skills add Gingiris-1031/gingiris-go-global
+```
+
+**What you get after installing:**
+- Phase 0-5 market entry framework
+- First 100 users acquisition
+- Multi-language localization SOP
+
+---
 # AI 产品/SaaS 企业出海完整 SOP
 
 > 作者：Iris (生姜iris) | 版本：1.0.0
@@ -116,3 +148,15 @@ PMF 前不要花超过 $1000 找前 100 个用户：
 完整 SOP 原文（含全部阶段细节、播客总结、作战清单）：
 
 → [references/full-sop.md](references/full-sop.md)
+
+
+---
+
+## 🔗 About the Author
+
+**Iris Wei** — Growth consultant for 150+ AI startups. Ex-COO at AFFiNE (69K GitHub stars).
+
+- 🐦 Twitter: [@WeiYipei](https://twitter.com/WeiYipei) — Daily growth tactics
+- 💬 Consulting: [@Iris_carrot on Telegram](https://t.me/Iris_carrot)
+- 🛒 Premium Bundle (all 5 playbooks + templates): [Get on Gumroad ($249)](https://gingiris.gumroad.com/l/gingiris-complete-global-launch-bundle)
+- 📚 40+ Free Playbooks: [gingiris.tools/skills](https://gingiris.tools/skills/)
